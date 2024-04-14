@@ -19,8 +19,8 @@ This blog application allows users to view a list of posts and read each post in
     <pre>git clone https://github.com/royabhi647/blogging</pre>
 
    2. Install NPM Packages:
-    - cd blog-app
-    - npm install
+      * <pre>cd blog-app</pre>
+      * <pre>npm install</pre>
 
 ### Running
 npm start
