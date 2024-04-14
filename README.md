@@ -23,4 +23,6 @@ This blog application allows users to view a list of posts and read each post in
       * <pre>npm install</pre>
 
 ### Running
-npm start
+npm 
+
+### [live preview](https://main--abhi-blog.netlify.app/)
