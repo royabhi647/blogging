@@ -24,5 +24,3 @@ This blog application allows users to view a list of posts and read each post in
 
 ### Running
 npm start
-
-
